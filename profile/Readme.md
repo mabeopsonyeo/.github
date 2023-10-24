@@ -1,4 +1,4 @@
-<h2 align="center">🪄 눈울 떠보니 마법소녀가 되어있는 건에 대하여 🪄 </h2>
+<h2 align="center">🪄 눈을 떠보니 마법소녀가 되어있던 건에 대하여 🪄 </h2>
 <p align="center">
   <img src="https://github.com/mabeopsonyeo/.github/assets/37898263/b5be9dac-d196-49e1-8fcf-1b2c9dcf6d51">
 </p>
